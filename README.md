@@ -12,4 +12,3 @@ Hi there! 👋 I'm Harine Sakthe K, a passionate mobile app developer with a kee
 
 Let's connect and collaborate on exciting mobile app projects!
 
-[LinkedIn]((https://www.linkedin.com/in/harine-kannan-078042271/))
