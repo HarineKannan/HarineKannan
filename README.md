@@ -11,7 +11,7 @@
 
 - 🔭 I currently worked on **Flutter projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Dot Net**
 
 - 💬 Ask me about **React Native, Flutter, OOPS**
 
