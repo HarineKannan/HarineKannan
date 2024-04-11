@@ -51,13 +51,14 @@
 
 <h3 align="left">Internship:</h3>
 <ul>
-  <li>
-    Completed 4 weeks internship at <b>Mistral Solutions Private Limited</b> on IoT & Embedded design
-  </li>
+  
   <li>
     Completed 4 weeks internship in <b>Coderzbot Innovations</b> in the field of Mobile app development using 
     Flutter and contributed my part by designing a small module in Front-end design in a real-time business 
     project.
+  </li>
+  <li>
+    Completed 6 months internship at <b>Brimma Tech Pvt Ltd</b> on Dot Net Development
   </li>
 
   <br>
